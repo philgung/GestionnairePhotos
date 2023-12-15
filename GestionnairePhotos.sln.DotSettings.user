@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Users\philippe.gung\.nuget\packages\groupdocs.comparison\23.11.0\lib\net6.0\GroupDocs.Comparison.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1e74fcd7_002De671_002D453c_002Da203_002D7bc74d0f1488/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="A_un_doublon" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F375E637-D5F9-4F73-85A3-736646BB8A95::net7.0::GestionnairePhotosTests.DetecteDoublons.A_un_doublon&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F375E637-D5F9-4F73-85A3-736646BB8A95::net7.0::GestionnairePhotosTests.DetecteDoublons.Na_pas_de_doublons&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
